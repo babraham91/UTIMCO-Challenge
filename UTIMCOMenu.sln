@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{86D5613D-8B71-4FAC-B2DF-0E4273A9D905}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3C7933D0-F7FA-4217-8EDF-12EF378BD1B2}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "UTIMCOMenu", "src\UTIMCOMenu\UTIMCOMenu.xproj", "{384BC1B4-F082-4FB0-985C-CE35DF484BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTIMCOMenu.Tests", "UTIMCOMenu.Test\UTIMCOMenu.Tests.csproj", "{20B38301-35BC-41E6-B2C4-8C758940CBB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{384BC1B4-F082-4FB0-985C-CE35DF484BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384BC1B4-F082-4FB0-985C-CE35DF484BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384BC1B4-F082-4FB0-985C-CE35DF484BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384BC1B4-F082-4FB0-985C-CE35DF484BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B38301-35BC-41E6-B2C4-8C758940CBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B38301-35BC-41E6-B2C4-8C758940CBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B38301-35BC-41E6-B2C4-8C758940CBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B38301-35BC-41E6-B2C4-8C758940CBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{384BC1B4-F082-4FB0-985C-CE35DF484BB9} = {86D5613D-8B71-4FAC-B2DF-0E4273A9D905}
+	EndGlobalSection
+EndGlobal

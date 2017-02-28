@@ -1,0 +1,24 @@
+﻿@model UTIMCOMenu.Models.SumsModel
+@{
+    ViewData["Title"] = "Select Menu File";
+    ViewData["Output"] = "Output";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Upload"
+      asp-controller="Menu"
+      method="post"
+      enctype="multipart/form-data">
+    <input type="file" name="file" />
+    <input type="submit" value="Upload" />
+</form>
+
+<h2>@ViewData["Output"]</h2>
+@if (Model != null)
+{
+    @foreach (int sum in Model.sums)
+    {
+        <div>@sum</div>
+    }
+}

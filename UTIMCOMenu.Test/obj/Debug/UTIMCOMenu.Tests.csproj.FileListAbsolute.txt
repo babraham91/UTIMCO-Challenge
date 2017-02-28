@@ -1,0 +1,12 @@
+c:\users\brett\documents\visual studio 2015\Projects\UTIMCOMenu\UTIMCOMenu.Test\bin\Debug\UTIMCOMenu.Test.dll
+c:\users\brett\documents\visual studio 2015\Projects\UTIMCOMenu\UTIMCOMenu.Test\bin\Debug\UTIMCOMenu.Test.pdb
+c:\users\brett\documents\visual studio 2015\Projects\UTIMCOMenu\UTIMCOMenu.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\brett\documents\visual studio 2015\Projects\UTIMCOMenu\UTIMCOMenu.Test\bin\Debug\UTIMCOMenu.dll
+c:\users\brett\documents\visual studio 2015\Projects\UTIMCOMenu\UTIMCOMenu.Test\bin\Debug\UTIMCOMenu.pdb
+c:\users\brett\documents\visual studio 2015\Projects\UTIMCOMenu\UTIMCOMenu.Test\obj\Debug\UTIMCOMenu.Tests.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2015\Projects\UTIMCOMenu\UTIMCOMenu.Test\obj\Debug\UTIMCOMenu.Test.dll
+c:\users\brett\documents\visual studio 2015\Projects\UTIMCOMenu\UTIMCOMenu.Test\obj\Debug\UTIMCOMenu.Test.pdb
+c:\users\brett\documents\visual studio 2015\Projects\UTIMCOMenu\UTIMCOMenu.Test\bin\Debug\Castle.Core.dll
+c:\users\brett\documents\visual studio 2015\Projects\UTIMCOMenu\UTIMCOMenu.Test\bin\Debug\Moq.dll
+c:\users\brett\documents\visual studio 2015\Projects\UTIMCOMenu\UTIMCOMenu.Test\bin\Debug\Castle.Core.xml
+c:\users\brett\documents\visual studio 2015\Projects\UTIMCOMenu\UTIMCOMenu.Test\bin\Debug\Moq.xml
